@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Привет, я Ilya
 
-<!--
-**qribix/qribix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Активно изучаю кибербезопасность. Прохожу машины на VulnHub и других площадках, разбираю векторы атак и пишу write-up'ы - не для галочки, а чтобы реально понять, что и почему сработало. От разведки до пост-эксплуатации - стараюсь копать на всех этапах.
 
-Here are some ideas to get you started:
+🔗 Мои прохождения → [pentest-writeups](https://github.com/qribix/pentest-writeups)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Что я знаю и с чем работаю
+
+### 🔧 Инструментарий
+Уверенно работаю с основным стеком:
+
+`Burp Suite` `Metasploit` `Wireshark` `Nmap` `Hydra` `Gobuster` `Netcat`
+`John the Ripper` `Hashcat` `Aircrack-ng` `Nikto` `WPScan` `CyberChef` `SQLMap`
+
+### 🌐 Веб-безопасность
+Понимаю логику веб-уязвимостей: от перебора директорий до SQL-инъекций и XSS. Знаком с OWASP Top 10, умею находить и эксплуатировать базовые уязвимости, постепенно углубляюсь.
+
+### 📡 Сети
+Модель OSI, TCP/IP, DNS, DHCP, маршрутизация - знаю, как это работает. Анализирую трафик в Wireshark, понимаю принципы беспроводных сетей и атак на них.
+
+### 💻 Системы
+Linux - основной инструмент, в Windows ориентируюсь на уровне администрирования. Понимаю логику прав доступа, процессов и служб.
+
+---
+ 
+## 📬 Контакты
+
+- Telegram: [@qibixi](https://t.me/qibixi)
+- TryHackMe: [профиль](https://tryhackme.com/p/qribix)
+- Codeby: [профиль](https://codeby.net/members/qibix.304192/)
