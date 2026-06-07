@@ -4,6 +4,8 @@
 
 🔗 Мои прохождения → [pentest-writeups](https://github.com/qribix/pentest-writeups)
 
+🔗 Мои инструменты → [security-scripts](https://github.com/qribix/security-scripts)
+
 ---
 
 ## 🛠️ Что я знаю и с чем работаю
