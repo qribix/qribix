@@ -13,7 +13,7 @@
 **MITRE ATT&CK** - знание матрицы, тактик и техник, понимание цепочки атаки.
 
 ### 🔧 Инструментарий
-Уверенно работаю с основным стеком:
+В своей практике использую, в частности:
 
 `Burp Suite` `Metasploit` `Wireshark` `Nmap` `Hydra` `Gobuster` `Netcat`
 `John the Ripper` `Hashcat` `Aircrack-ng` `Nikto` `WPScan` `CyberChef` `SQLMap`
