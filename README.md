@@ -46,4 +46,3 @@ Linux - основной инструмент, в Windows ориентируюс
 
 - Telegram: [@qibixi](https://t.me/qibixi)
 - TryHackMe: [профиль](https://tryhackme.com/p/qribix)
-- Codeby: [профиль](https://codeby.net/members/qibix.304192/)
