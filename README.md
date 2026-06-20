@@ -43,6 +43,7 @@
 ![Static Badge](https://img.shields.io/badge/-WPScan-0073AA?style=flat-square&logo=wpscan&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-CyberChef-5B2C8E?style=flat-square&logo=cyberchef&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-SQLMap-000000?style=flat-square&logo=sqlmap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Raspberry-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 
 ---
 
